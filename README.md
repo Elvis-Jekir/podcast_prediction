@@ -25,7 +25,6 @@ The notebook includes:
 ## 🚀 Setup Instructions
 
 ### 1. Clone this repository
-
 ```bash
 git clone https://github.com/Elvis-Jekir/podcast_prediction.git
 cd podcast_prediction
